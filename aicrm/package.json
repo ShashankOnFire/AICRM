@@ -11,6 +11,8 @@
   },
   "dependencies": {
     "@clerk/clerk-js": "^4.70.4",
+    "@nextui-org/react": "^2.2.10",
+    "framer-motion": "^11.0.9",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
